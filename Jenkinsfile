@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Check Docker') {
+        stage('Build Docker Image') {
             steps {
-                bat 'docker --version'
+                bat 'docker build -t cicd-app .'
             }
         }
     }
