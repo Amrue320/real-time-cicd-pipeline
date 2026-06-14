@@ -119,13 +119,13 @@ Through this project I gained hands-on experience with:
 * Continuous Deployment
 * DevOps automation workflows
 
-## Future Enhancements
-
-* GitHub Webhooks
-* Docker Hub Integration
-* Automated Testing Stage
-* Kubernetes Deployment
-* AWS EC2 Deployment
+## Features:
+✔ Automated CI/CD pipeline
+✔ Docker image versioning using Jenkins Build Number
+✔ Automated deployment
+✔ Deployment verification
+✔ GitHub integration
+✔ Jenkins Pipeline as Code
 
 ## Author
 
